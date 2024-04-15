@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BottomBarRemover
 // @namespace    http://tampermonkey.net/
-// @version      2024-04-15
+// @version      1.0.0
 // @description  Remove "you are responsable" bottom bar
 // @author       BigYass
 // @match        https://www.youtube.com/*
